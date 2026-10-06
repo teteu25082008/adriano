@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil Profissional - Gabriel mateus</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="perfil">
+
+        <h1>Gabriel mateus</h1>
+
+        <h2>Desenvolvedora de Sistemas</h2>
+
+        <p class="descricao">
+            Sou estudante de Desenvolvimento de Sistemas e estou aprendendo
+            HTML, CSS, JavaScript e lógica de programação, e tenho interesse
+            em SQL.
+        </p>
+
+        <h3>Minhas habilidades</h3>
+
+        <ul class="habilidades">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>BANCO DE DADOS</li>
+            <li>Lógica de Programação</li>
+        </ul>
+
+        <h3>Contato</h3>
+
+        <div class="contato">
+            <p>.E-MAIL: bielmcordeiro@gmail.com</p>
+            <p>.CIDADE: Belo Horizonte - MG</p>
+            <p>.TELEFONE: (31) 991770271</p>
+        </div>
+
+        <a class="botao" href="bielmcordeiro@gmail.com">
+            Entrar em contato
+        </a>
+
+    </div>
+
+</body>
+
+</html>
