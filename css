@@ -1,0 +1,75 @@
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+}
+
+.perfil {
+    width: 500px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: white;
+    border: 2px solid #494646;
+    border-radius: 15px;
+}
+
+h1 {
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+}
+
+h2 {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+}
+
+.descricao {
+    color: #000000;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h3 {
+    color: #000000;
+    font-size: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 8px;
+}
+
+.habilidades {
+    background-color: #a59d9d;
+    padding: 20px 40px;
+    border-radius: 8px;
+}
+
+.habilidades li {
+    margin: 10px 0;
+    color: #000000;
+}
+
+.contato {
+    color: #000000;
+    font-size: 16px;
+    background-color: #a59d9d;
+    padding: 20px 40px;
+    border-radius: 8px;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #000000;
+    color: rgb(236, 0, 0);
+    padding: 12px 20px;
+    border: 1px solid #f8f5f5;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.botao:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
